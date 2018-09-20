@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Entertainment Box</string>
+    <string name="title">Moviepedia</string>
+    <string name="result">SEARCH RESULT:</string>
+    <string name="search">SEARCH</string>
+    <string name="home">HOME</string>
+</resources>
